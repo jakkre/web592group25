@@ -1,2 +1,3 @@
 <?php
-    echo 'Hello world!';
+header("Location: index.html");
+?>
